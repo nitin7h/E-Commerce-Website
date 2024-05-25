@@ -1,0 +1,120 @@
+[
+  {
+    "id": 1,
+    "name": "Basic White Tee",
+    "image_url": "https://m.media-amazon.com/images/I/61QSpPoA-UL._AC_UL480_FMwebp_QL65_.jpg",
+    "colors": ["White"],
+    "stock": 50,
+    "price": 10.99,
+    "size": ["S", "M", "L", "XL"],
+    "quantity": 1
+  },
+  {
+    "id": 2,
+    "name": "Classic Black Tee",
+    "image_url": "https://tailwindui.com/img/ecommerce-images/product-page-01-related-product-01.jpg",
+    "colors": ["Black"],
+    "stock": 60,
+    "price": 11.99,
+    "size": ["S", "M", "L", "XL"],
+    "quantity": 1
+  },
+  {
+    "id": 3,
+    "name": "Navy Blue Tee",
+    "image_url": "https://m.media-amazon.com/images/I/61tHgrHVe9L._AC_UL480_FMwebp_QL65_.jpg",
+    "colors": ["Navy Blue"],
+    "stock": 40,
+    "price": 12.99,
+    "size": ["S", "M", "L", "XL"],
+    "quantity": 1
+  },
+  {
+    "id": 4,
+    "name": "Grey Tee",
+    "image_url": "https://m.media-amazon.com/images/I/71tw56bIi5L._AC_UL480_FMwebp_QL65_.jpg",
+    "colors": ["Grey"],
+    "stock": 35,
+    "price": 13.99,
+    "size": ["S", "M", "L", "XL"],
+    "quantity": 1
+  },
+  {
+    "id": 5,
+    "name": "Red Tee",
+    "image_url": "https://m.media-amazon.com/images/I/71BgsbgzC0L._AC_UL480_FMwebp_QL65_.jpg",
+    "colors": ["Red"],
+    "stock": 45,
+    "price": 14.99,
+    "size": ["S", "M", "L", "XL"],
+    "quantity": 1
+  },
+  {
+    "id": 6,
+    "name": "Green Tee",
+    "image_url": "https://m.media-amazon.com/images/I/71VW1EYN-WL._AC_UL480_FMwebp_QL65_.jpg",
+    "colors": ["Green"],
+    "stock": 50,
+    "price": 15.99,
+    "size": ["S", "M", "L", "XL"],
+    "quantity": 1
+  },
+  {
+    "id": 7,
+    "name": "Yellow Tee",
+    "image_url": "https://m.media-amazon.com/images/I/81RMDWaOL5L._AC_UL480_FMwebp_QL65_.jpg",
+    "colors": ["Yellow"],
+    "stock": 30,
+    "price": 9.99,
+    "size": ["S", "M", "L", "XL"],
+    "quantity": 1
+  },
+  {
+    "id": 8,
+    "name": "Purple Tee",
+    "image_url": "https://m.media-amazon.com/images/I/418VXvOd2HL._AC_UL480_FMwebp_QL65_.jpg",
+    "colors": ["Purple"],
+    "stock": 25,
+    "price": 16.99,
+    "size": ["S", "M", "L", "XL"],
+    "quantity": 1
+  },
+  {
+    "id": 9,
+    "name": "Orange Tee",
+    "image_url": "https://m.media-amazon.com/images/I/71+RO7NfifL._AC_UL480_FMwebp_QL65_.jpg",
+    "colors": ["Orange"],
+    "stock": 20,
+    "price": 17.99,
+    "size": ["S", "M", "L", "XL"],
+    "quantity": 1
+  },
+  {
+    "id": 10,
+    "name": "Pink Tee",
+    "image_url": "https://m.media-amazon.com/images/I/715-Z-aOIhL._AC_UL480_FMwebp_QL65_.jpg",
+    "colors": ["Pink"],
+    "stock": 40,
+    "price": 18.99,
+    "size": ["S", "M", "L", "XL"],
+    "quantity": 1
+  },
+  {
+    "id": 11,
+    "name": "Brown Tee",
+    "image_url": "https://m.media-amazon.com/images/I/71drTx0q7XL._AC_UL480_FMwebp_QL65_.jpg",
+    "colors": ["Brown"],
+    "stock": 15,
+    "price": 19.99,
+    "quantity": 1
+  },
+  {
+    "id": 11,
+    "name": "Brown Tee",
+    "image_url": "https://m.media-amazon.com/images/I/71MmrkYPkeL._AC_UL480_FMwebp_QL65_.jpg",
+    "colors": ["Brown"],
+    "stock": 15,
+    "price": 19.99,
+    "quantity": 1
+  }
+]
